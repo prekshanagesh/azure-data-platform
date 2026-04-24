@@ -1,2 +1,1 @@
-# azure-data-platform
-Designed a global Azure lakehouse strategy for FluiDrive to manage petabyte-scale EV telemetry, sensor, and customer data across multiple regions.
+Designed a global data platform strategy for an autonomous EV company (FluiDrive) to support petabyte-scale telemetry, sensor, and customer data across North America, Europe, and Asia. Proposed an Azure-based lakehouse architecture using Event Hubs, IoT Hub, Data Factory, and Databricks, with a medallion data model to enable real-time analytics, ML retraining, governance, and cross-regional scalability. Defined stakeholder requirements, governance frameworks, compliance controls, and a phased execution roadmap to improve safety, operational efficiency, customer experience, and AI-driven decision-making.
